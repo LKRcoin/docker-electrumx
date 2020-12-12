@@ -1,0 +1,4 @@
+
+
+COIN=Lkrcoin
+DAEMON_URL=http://lkruser:lkrpass@lkrcoin-node:34958
